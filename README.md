@@ -1,8 +1,10 @@
 # VINS-Fusion
-## An optimization-based multi-sensor state estimator
 
 This is an academic repository in order to implement the VINS-Fusion algorithm in the OAK-D camera. 
 The OAK-D camera configuration files are in the oak folder
+
+## An optimization-based multi-sensor state estimator
+
 
 <img src="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/blob/master/support_files/image/vins_logo.png" width = 55% height = 55% div align=left />
 <img src="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/blob/master/support_files/image/kitti.png" width = 34% height = 34% div align=center />
